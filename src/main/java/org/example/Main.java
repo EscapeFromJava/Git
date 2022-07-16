@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Git: 1.1");
         System.out.println("Git: 1.1.1");
         System.out.println("Git: 2");
+        System.out.println("merge");
     }
 
     public static void test(){
